@@ -1,0 +1,13 @@
+{
+  "appId": "com.darkenwolf.app",
+  "appName": "Darken Wolf",
+  "webDir": "www",
+  "backgroundColor": "#2b2b2b",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "url": "https://darken-wolf.github.io",
+    "androidScheme": "https"
+  }
+}

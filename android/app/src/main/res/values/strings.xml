@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Darken Wolf</string>
+    <string name="title_activity_main">Darken Wolf</string>
+    <string name="package_name">com.darkenwolf.app</string>
+    <string name="custom_url_scheme">com.darkenwolf.app</string>
+</resources>

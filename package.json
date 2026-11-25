@@ -1,0 +1,13 @@
+{
+  "name": "darken-wolf-apk",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@capacitor/core": "8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/android": "8.6.2",
+    "@capacitor/cli": "8.6.2",
+    "@capacitor/assets": "4.0.0"
+  }
+}
